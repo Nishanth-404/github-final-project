@@ -1,0 +1,13 @@
+Contributing
+============
+
+All contributions, bug reports, bug fixes, documentation improvements and ideas are welcome. Details on how to set up a development environment can be found in our development guidelines. :contentReference[oaicite:1]{index=1}
+
+If you are looking to start working with the Zipline codebase, navigate to the GitHub issues tab and start looking through interesting issues. Sometimes there are issues labeled as Beginner Friendly or Help Wanted. :contentReference[oaicite:2]{index=2}
+
+Feel free to ask questions on the mailing list or on Gitter. :contentReference[oaicite:3]{index=3}
+
+Note
+----
+
+Please note that Zipline is not a community-led project. Zipline is maintained by the Quantopian engineering team, and we are quite small and often busy. Because of this, we want to warn you that we may not attend to your pull request, issue, or direct mention in months, or even years. We hope you understand, and we hope that this note might help reduce any frustration or wasted time. :contentReference[oaicite:4]{index=4}
